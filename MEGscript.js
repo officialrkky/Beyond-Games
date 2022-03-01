@@ -64,9 +64,9 @@ else if (randomNumber == 20){
 else {
     let output = "Error, please try again.";
 }
-
-document.getElementById("questionOutput").innerHTML = output;
-
+function MEGoutput() {
+ document.getElementById("questionOutput").innerHTML = output;
+}
 
 
    
