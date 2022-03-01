@@ -1,19 +1,18 @@
-head{
-padding-top:20px;
-padding-right:10px;
-padding-bottom:20px;
-padding-left:10px;
-background-color:#ACDB86;
+*{
+background-color: #151D3B;
+color: #DADBBD;
+}
+
+nav{
+background-color: #D82148;
+margin: 20px;
 }
 
 body{
-background-color:#547C66;
 }
 
 footer{
-padding-top:20px;
-padding-right:10px;
-padding-bottom:20px;
-padding-left:10px;
-background-color:#ACDB86;
+background-color: #D82148;
+margin: 20px;
 }
+
