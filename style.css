@@ -44,6 +44,10 @@ nav a{
   text-transform: uppercase;
 }
 
+.pageHeader{
+  text-align:center;
+  color: #EEEBDD;
+}
 
 footer{
   background:  #630000;
@@ -62,4 +66,5 @@ footer .copyRight{
   padding-top: 30px;
   padding-bottom: 30px;
   text-align: center;
+  color: #EEEBDD;
 }
