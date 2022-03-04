@@ -47,6 +47,7 @@ nav a{
 .pageHeader{
   text-align:center;
   color: #EEEBDD;
+  text-transform: uppercase;
 }
 
 footer{
